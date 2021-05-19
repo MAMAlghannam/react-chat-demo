@@ -1,0 +1,17 @@
+.message-container {
+    /* background-color: #ec897a;    */
+    /* width: 500px; */
+    min-height: 70px; 
+    max-width: 60%; 
+    padding: 10px;
+    border-radius: 7px;
+    box-shadow: 0px 0px 1.5px grey;
+}
+
+.sender-name-container {
+    font-size: 14px;
+    color: #a04a4c;
+    font-weight: bold;
+    border-bottom: 1px solid #a04a4c;
+    padding: 0px 3px 0px 3px;
+}

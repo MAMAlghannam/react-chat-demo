@@ -1,0 +1,10 @@
+.conversation-container {
+    border-bottom: 1px solid black;
+    padding: 10px;
+    padding-left: 25px;
+    cursor: pointer;
+}
+
+.conversation-container:hover{
+    background-color: #4a919e;
+}

@@ -1,0 +1,24 @@
+.field{
+    padding: 10px;
+    margin: 5px;
+    outline: none;
+    border: 2px solid #212e53;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.login-btn{
+    padding: 10px;
+    margin: 5px;
+    margin-top: 35px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    background-color: #212e53;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.login-btn:hover{ background-color: #4c5f94; }
